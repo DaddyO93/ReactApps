@@ -2,7 +2,7 @@
 
 The apps in this React App are built as I learn React. 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
